@@ -29,22 +29,3 @@ print("the reminder of", number1, "over 5:", Rem1)
 print("the reminder of", number2, "over 5:", Rem2)
 print("the exponent of", number1, "is:", Ex1)
 print("the exponent of", number2, "is:", Ex2)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
